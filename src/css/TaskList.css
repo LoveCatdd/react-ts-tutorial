@@ -1,0 +1,27 @@
+.tasks {
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    width: 47.5%;
+    padding: 15px;
+    background-color: rgb(50, 195, 205);
+  }
+  
+  .remove {
+    background-color: rgb(235, 103, 80);
+  }
+  
+.todos__heading {
+  font-size: 30px;
+  /* text-align: center; */
+  color: white;
+}
+
+
+.container {
+  width: 95%;
+  display: flex;
+  margin-top: 10px;
+  justify-content: space-between;
+  align-items: flex-start;
+}
